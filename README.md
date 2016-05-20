@@ -1,6 +1,4 @@
-# 基于React + Webpack + Babel的项目脚手架
-
-> 这个脚手架工程模板用于快速启动基于React + Webpack为技术栈的前端项目
+# 基于React + Webpack + ES6
 
 **Features：**
 
@@ -21,13 +19,6 @@
 - 支持mocha测试用例运行
 - 支持一行命令产出待部署资源
 
-## 1. start
-
-```
-$ git clone https://github.com/shuaiguoisme/react-webpack-babel-es6.git
-$ cd react-webpack-babel-es6
-$ npm install
-```
 ## 2. dev
 ### 2.1 开发调试
 ```
@@ -51,15 +42,3 @@ $ npm run test:watch
 $ npm run build
 ```
 
-## 3. 技术栈
-
-- [x] [Webpack](https://webpack.github.io)
-- [x] [React](https://facebook.github.io/react/)
-- [x] [ES6](http://es6.ruanyifeng.com/)
-- [ ] [Redux](https://github.com/rackt/redux)
-- [x] [React-router](https://github.com/rackt/react-router-redux)
-- [x] [Babel](https://babeljs.io/)
-- [ ] [Autoprefixer](https://github.com/postcss/autoprefixer)
-- [ ] [PostCSS](https://github.com/postcss/postcss)
-- [x] [CSS modules](https://github.com/outpunk/postcss-modules)
-- [x] [Eslint](https://github.com/eslint/eslint)
